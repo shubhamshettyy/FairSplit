@@ -1,0 +1,307 @@
+@import "tailwindcss";
+
+/* ─── Tokens ─────────────────────────────────────────────── */
+:root {
+  /* surfaces */
+  --bg:         #FAFAF7;
+  --surface:    #FFFFFF;
+  --surface-2:  #F5F4F0;
+  --surface-3:  #EEEDEA;
+
+  /* text */
+  --text:       #111827;
+  --text-2:     #374151;
+  --muted:      #6B7280;
+
+  /* borders & shadows */
+  --border:       rgba(0,0,0,0.07);
+  --border-md:    rgba(0,0,0,0.12);
+  --shadow:       0 2px 20px rgba(0,0,0,0.07), 0 0 0 1px rgba(0,0,0,0.04);
+  --shadow-sm:    0 1px 8px rgba(0,0,0,0.06);
+  --shadow-lg:    0 8px 40px rgba(0,0,0,0.10), 0 0 0 1px rgba(0,0,0,0.04);
+
+  /* glass */
+  --glass-bg:      rgba(255,255,255,0.84);
+  --glass-border:  rgba(0,0,0,0.08);
+
+  /* inputs */
+  --input-bg:      #F5F4F0;
+  --input-border:  rgba(0,0,0,0.12);
+  --input-focus:   rgba(245,158,11,0.35);
+
+  /* accent */
+  --accent:        #F59E0B;
+  --accent-hover:  #D97706;
+  --accent-dim:    rgba(245,158,11,0.12);
+  --accent-fg:     #000000;
+
+  /* status */
+  --danger:        #EF4444;
+  --danger-bg:     rgba(239,68,68,0.08);
+
+  /* unassigned */
+  --unassigned-bg:       #FFFBEB;
+  --unassigned-bg-hover: #FEF3C7;
+
+  /* radii */
+  --radius:    16px;
+  --radius-sm: 10px;
+}
+
+[data-theme="dark"] {
+  --bg:         #0F0E0A;
+  --surface:    #181710;
+  --surface-2:  #211F17;
+  --surface-3:  #2A281F;
+
+  --text:       #F0EFE8;
+  --text-2:     #C4C3BA;
+  --muted:      #88877D;
+
+  --border:       rgba(255,255,255,0.08);
+  --border-md:    rgba(255,255,255,0.14);
+  --shadow:       0 2px 24px rgba(0,0,0,0.50), 0 0 0 1px rgba(255,255,255,0.04);
+  --shadow-sm:    0 1px 8px rgba(0,0,0,0.35);
+  --shadow-lg:    0 8px 40px rgba(0,0,0,0.60), 0 0 0 1px rgba(255,255,255,0.04);
+
+  --glass-bg:      rgba(24,23,16,0.90);
+  --glass-border:  rgba(255,255,255,0.08);
+
+  --input-bg:      #1C1B14;
+  --input-border:  rgba(255,255,255,0.12);
+  --input-focus:   rgba(245,158,11,0.30);
+
+  --accent:        #F59E0B;
+  --accent-hover:  #FBBF24;
+  --accent-dim:    rgba(245,158,11,0.14);
+  --accent-fg:     #000000;
+
+  --danger:        #F87171;
+  --danger-bg:     rgba(248,113,113,0.10);
+
+  --unassigned-bg:       rgba(245,158,11,0.07);
+  --unassigned-bg-hover: rgba(245,158,11,0.12);
+}
+
+/* ─── Base ────────────────────────────────────────────────── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  color: var(--text);
+  background:
+    radial-gradient(ellipse at 15% -5%, color-mix(in srgb, var(--accent) 10%, transparent) 0%, transparent 45%),
+    radial-gradient(ellipse at 85% 5%, color-mix(in srgb, #60a5fa 8%, transparent) 0%, transparent 40%),
+    var(--bg);
+  min-height: 100dvh;
+  font-family: 'DM Sans', 'Segoe UI', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+::selection {
+  background: var(--accent-dim);
+  color: var(--text);
+}
+
+.app-page {
+  width: min(1080px, 100%);
+  margin: 0 auto;
+  padding: 32px 20px 120px;
+}
+
+.app-title {
+  font-size: clamp(1.7rem, 3vw, 2.2rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  color: var(--text);
+  line-height: 1.15;
+}
+
+.app-subtitle {
+  font-size: 0.9rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.brand-mark {
+  position: fixed;
+  top: 14px;
+  left: 14px;
+  z-index: 60;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  color: var(--text);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+.brand-mark:hover {
+  color: var(--accent-hover);
+}
+
+.top-controls {
+  position: fixed;
+  top: 14px;
+  right: 14px;
+  z-index: 60;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+@media (max-width: 640px) {
+  .brand-mark {
+    top: 10px;
+    left: 10px;
+    font-size: 14px;
+  }
+  .top-controls {
+    top: 10px;
+    right: 10px;
+    gap: 6px;
+  }
+}
+
+/* ─── Theme toggle ───────────────────────────────────────── */
+.theme-fab {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 1px solid var(--border-md);
+  background: var(--glass-bg);
+  color: var(--text);
+  box-shadow: var(--shadow-sm);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background 0.2s, border-color 0.2s;
+}
+.theme-fab:hover {
+  background: var(--surface-2);
+  border-color: var(--border-md);
+}
+
+/* ─── Card ───────────────────────────────────────────────── */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+  border-radius: var(--radius);
+  transition: background 0.25s, border-color 0.25s, box-shadow 0.25s;
+}
+
+/* ─── Inputs ─────────────────────────────────────────────── */
+.app-input {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13px;
+  color: var(--text);
+  background: var(--input-bg);
+  border: 1.5px solid var(--input-border);
+  border-radius: var(--radius-sm);
+  padding: 9px 12px;
+  outline: none;
+  width: 100%;
+  transition: border-color 0.15s, box-shadow 0.15s, background 0.25s;
+}
+.app-input:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--input-focus);
+}
+.app-input::placeholder { color: var(--muted); }
+
+.app-select {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 12px;
+  color: var(--text);
+  background: var(--input-bg);
+  border: 1.5px solid var(--input-border);
+  border-radius: var(--radius-sm);
+  padding: 7px 26px 7px 10px;
+  outline: none;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.25s;
+  appearance: none;
+  -webkit-appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' fill='none'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%236B7280' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 8px center;
+}
+.app-select:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--input-focus);
+}
+
+/* ─── Buttons ────────────────────────────────────────────── */
+.btn {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  border-radius: var(--radius-sm);
+  padding: 9px 18px;
+  line-height: 1;
+  transition: background 0.15s, transform 0.1s, box-shadow 0.15s;
+}
+.btn:disabled { opacity: 0.35; pointer-events: none; }
+
+.btn-accent {
+  background: var(--accent);
+  color: var(--accent-fg);
+  box-shadow: 0 2px 12px rgba(245,158,11,0.30);
+}
+.btn-accent:hover {
+  background: var(--accent-hover);
+  box-shadow: 0 4px 18px rgba(245,158,11,0.38);
+}
+
+.btn-ghost {
+  background: var(--surface-2);
+  color: var(--text-2);
+  border: 1px solid var(--border-md);
+}
+.btn-ghost:hover {
+  background: var(--surface-3);
+}
+
+.btn-danger {
+  background: var(--danger-bg);
+  color: var(--danger);
+}
+.btn-danger:hover {
+  background: rgba(239,68,68,0.15);
+}
+
+/* ─── Scrollbar ──────────────────────────────────────────── */
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border-md); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--muted); }
+
+/* ─── Hide number input spinners ─────────────────────────── */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type="number"] {
+  appearance: textfield;
+  -moz-appearance: textfield;
+}

@@ -1,0 +1,1255 @@
+[
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Form",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UserId",
+        "importPath": "auth",
+        "description": "auth",
+        "isExtraImport": true,
+        "detail": "auth",
+        "documentation": {}
+    },
+    {
+        "label": "UserId",
+        "importPath": "auth",
+        "description": "auth",
+        "isExtraImport": true,
+        "detail": "auth",
+        "documentation": {}
+    },
+    {
+        "label": "ParseReceiptResponse",
+        "importPath": "models.schema",
+        "description": "models.schema",
+        "isExtraImport": true,
+        "detail": "models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "SplitSession",
+        "importPath": "models.schema",
+        "description": "models.schema",
+        "isExtraImport": true,
+        "detail": "models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "ShareTokenResponse",
+        "importPath": "models.schema",
+        "description": "models.schema",
+        "isExtraImport": true,
+        "detail": "models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "SplitSession",
+        "importPath": "models.schema",
+        "description": "models.schema",
+        "isExtraImport": true,
+        "detail": "models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "SummaryResponse",
+        "importPath": "models.schema",
+        "description": "models.schema",
+        "isExtraImport": true,
+        "detail": "models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateSessionRequest",
+        "importPath": "models.schema",
+        "description": "models.schema",
+        "isExtraImport": true,
+        "detail": "models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "ReceiptItem",
+        "importPath": "models.schema",
+        "description": "models.schema",
+        "isExtraImport": true,
+        "detail": "models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "ReceiptItem",
+        "importPath": "models.schema",
+        "description": "models.schema",
+        "isExtraImport": true,
+        "detail": "models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "PersonSummary",
+        "importPath": "models.schema",
+        "description": "models.schema",
+        "isExtraImport": true,
+        "detail": "models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "SplitSession",
+        "importPath": "models.schema",
+        "description": "models.schema",
+        "isExtraImport": true,
+        "detail": "models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "SplitSession",
+        "importPath": "models.schema",
+        "description": "models.schema",
+        "isExtraImport": true,
+        "detail": "models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "importPath": "models.schema",
+        "description": "models.schema",
+        "isExtraImport": true,
+        "detail": "models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "ReceiptItem",
+        "importPath": "models.schema",
+        "description": "models.schema",
+        "isExtraImport": true,
+        "detail": "models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "SplitSession",
+        "importPath": "models.schema",
+        "description": "models.schema",
+        "isExtraImport": true,
+        "detail": "models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "extract_items",
+        "importPath": "services.receipt_parser",
+        "description": "services.receipt_parser",
+        "isExtraImport": true,
+        "detail": "services.receipt_parser",
+        "documentation": {}
+    },
+    {
+        "label": "session_store",
+        "importPath": "storage",
+        "description": "storage",
+        "isExtraImport": true,
+        "detail": "storage",
+        "documentation": {}
+    },
+    {
+        "label": "session_store",
+        "importPath": "storage",
+        "description": "storage",
+        "isExtraImport": true,
+        "detail": "storage",
+        "documentation": {}
+    },
+    {
+        "label": "compute_summary",
+        "importPath": "services.split_calculator",
+        "description": "services.split_calculator",
+        "isExtraImport": true,
+        "detail": "services.split_calculator",
+        "documentation": {}
+    },
+    {
+        "label": "compute_summary",
+        "importPath": "services.split_calculator",
+        "description": "services.split_calculator",
+        "isExtraImport": true,
+        "detail": "services.split_calculator",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "anthropic",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "anthropic",
+        "description": "anthropic",
+        "detail": "anthropic",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "genai",
+        "importPath": "google",
+        "description": "google",
+        "isExtraImport": true,
+        "detail": "google",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "google.genai",
+        "description": "google.genai",
+        "isExtraImport": true,
+        "detail": "google.genai",
+        "documentation": {}
+    },
+    {
+        "label": "extract_items",
+        "importPath": "services.claude_parser",
+        "description": "services.claude_parser",
+        "isExtraImport": true,
+        "detail": "services.claude_parser",
+        "documentation": {}
+    },
+    {
+        "label": "extract_items",
+        "importPath": "services.gemini_parser",
+        "description": "services.gemini_parser",
+        "isExtraImport": true,
+        "detail": "services.gemini_parser",
+        "documentation": {}
+    },
+    {
+        "label": "redis",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "redis",
+        "description": "redis",
+        "detail": "redis",
+        "documentation": {}
+    },
+    {
+        "label": "httpx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "httpx",
+        "description": "httpx",
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jwt",
+        "description": "jwt",
+        "detail": "jwt",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPAuthorizationCredentials",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "routers.receipt",
+        "description": "routers.receipt",
+        "isExtraImport": true,
+        "detail": "routers.receipt",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "routers.sessions",
+        "description": "routers.sessions",
+        "isExtraImport": true,
+        "detail": "routers.sessions",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "backend..venv.Scripts.activate_this",
+        "description": "backend..venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"backend\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "backend..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "backend..venv.Scripts.activate_this",
+        "description": "backend..venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"backend\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": "backend..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "backend..venv.Scripts.activate_this",
+        "description": "backend..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"backend\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "backend..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "backend..venv.Scripts.activate_this",
+        "description": "backend..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"backend\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "backend..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "backend..venv.Scripts.activate_this",
+        "description": "backend..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"backend\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "backend..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "backend..venv.Scripts.activate_this",
+        "description": "backend..venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "backend..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "backend..venv.Scripts.activate_this",
+        "description": "backend..venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "backend..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "backend..venv.Scripts.activate_this",
+        "description": "backend..venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "backend..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "backend..venv.Scripts.activate_this",
+        "description": "backend..venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "backend..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "ReceiptItem",
+        "kind": 6,
+        "importPath": "backend.models.schema",
+        "description": "backend.models.schema",
+        "peekOfCode": "class ReceiptItem(BaseModel):\n    id: str = Field(default_factory=lambda: str(uuid.uuid4()))\n    name: str\n    quantity: float = 1\n    unit_price: float\n    total: float\n    category: ItemCategory = \"item\"\n    assignees: list[str] = Field(default_factory=list)\nclass Person(BaseModel):\n    id: str = Field(default_factory=lambda: str(uuid.uuid4()))",
+        "detail": "backend.models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "kind": 6,
+        "importPath": "backend.models.schema",
+        "description": "backend.models.schema",
+        "peekOfCode": "class Person(BaseModel):\n    id: str = Field(default_factory=lambda: str(uuid.uuid4()))\n    name: str\n    color: str\nclass SplitSession(BaseModel):\n    session_id: str = Field(default_factory=lambda: str(uuid.uuid4()))\n    created_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))\n    name: str = \"\"\n    items: list[ReceiptItem] = Field(default_factory=list)\n    people: list[Person] = Field(default_factory=list)",
+        "detail": "backend.models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "SplitSession",
+        "kind": 6,
+        "importPath": "backend.models.schema",
+        "description": "backend.models.schema",
+        "peekOfCode": "class SplitSession(BaseModel):\n    session_id: str = Field(default_factory=lambda: str(uuid.uuid4()))\n    created_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))\n    name: str = \"\"\n    items: list[ReceiptItem] = Field(default_factory=list)\n    people: list[Person] = Field(default_factory=list)\n    charge_split_mode: ChargeSplitMode = \"equal\"\nclass PersonSummary(BaseModel):\n    person_id: str\n    name: str",
+        "detail": "backend.models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "PersonSummary",
+        "kind": 6,
+        "importPath": "backend.models.schema",
+        "description": "backend.models.schema",
+        "peekOfCode": "class PersonSummary(BaseModel):\n    person_id: str\n    name: str\n    color: str\n    subtotal: float\n    tax_and_fees_share: float\n    total_owed: float\n    items: list[ReceiptItem]\nclass ParseReceiptResponse(BaseModel):\n    session_id: str",
+        "detail": "backend.models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "ParseReceiptResponse",
+        "kind": 6,
+        "importPath": "backend.models.schema",
+        "description": "backend.models.schema",
+        "peekOfCode": "class ParseReceiptResponse(BaseModel):\n    session_id: str\n    items: list[ReceiptItem]\nclass UpdateSessionRequest(BaseModel):\n    name: str = \"\"\n    items: list[ReceiptItem]\n    people: list[Person]\n    charge_split_mode: ChargeSplitMode = \"equal\"\nclass SummaryResponse(BaseModel):\n    people: list[PersonSummary]",
+        "detail": "backend.models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateSessionRequest",
+        "kind": 6,
+        "importPath": "backend.models.schema",
+        "description": "backend.models.schema",
+        "peekOfCode": "class UpdateSessionRequest(BaseModel):\n    name: str = \"\"\n    items: list[ReceiptItem]\n    people: list[Person]\n    charge_split_mode: ChargeSplitMode = \"equal\"\nclass SummaryResponse(BaseModel):\n    people: list[PersonSummary]\n    grand_total: float\n    unassigned_total: float\nclass ShareTokenResponse(BaseModel):",
+        "detail": "backend.models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "SummaryResponse",
+        "kind": 6,
+        "importPath": "backend.models.schema",
+        "description": "backend.models.schema",
+        "peekOfCode": "class SummaryResponse(BaseModel):\n    people: list[PersonSummary]\n    grand_total: float\n    unassigned_total: float\nclass ShareTokenResponse(BaseModel):\n    share_token: str",
+        "detail": "backend.models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "ShareTokenResponse",
+        "kind": 6,
+        "importPath": "backend.models.schema",
+        "description": "backend.models.schema",
+        "peekOfCode": "class ShareTokenResponse(BaseModel):\n    share_token: str",
+        "detail": "backend.models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "ItemCategory",
+        "kind": 5,
+        "importPath": "backend.models.schema",
+        "description": "backend.models.schema",
+        "peekOfCode": "ItemCategory = Literal[\"item\", \"tax\", \"fee\", \"tip\", \"discount\"]\nChargeSplitMode = Literal[\"equal\", \"prorated\"]\nclass ReceiptItem(BaseModel):\n    id: str = Field(default_factory=lambda: str(uuid.uuid4()))\n    name: str\n    quantity: float = 1\n    unit_price: float\n    total: float\n    category: ItemCategory = \"item\"\n    assignees: list[str] = Field(default_factory=list)",
+        "detail": "backend.models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "ChargeSplitMode",
+        "kind": 5,
+        "importPath": "backend.models.schema",
+        "description": "backend.models.schema",
+        "peekOfCode": "ChargeSplitMode = Literal[\"equal\", \"prorated\"]\nclass ReceiptItem(BaseModel):\n    id: str = Field(default_factory=lambda: str(uuid.uuid4()))\n    name: str\n    quantity: float = 1\n    unit_price: float\n    total: float\n    category: ItemCategory = \"item\"\n    assignees: list[str] = Field(default_factory=list)\nclass Person(BaseModel):",
+        "detail": "backend.models.schema",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.routers.receipt",
+        "description": "backend.routers.receipt",
+        "peekOfCode": "router = APIRouter(prefix=\"/api\", tags=[\"receipt\"])\nlogger = logging.getLogger(__name__)\nALLOWED_CONTENT_TYPES = {\"image/jpeg\", \"image/png\", \"image/webp\"}\nMAX_IMAGE_SIZE_MB = int(os.getenv(\"MAX_IMAGE_SIZE_MB\", \"10\"))\nMAX_IMAGES_PER_REQUEST = int(os.getenv(\"MAX_IMAGES_PER_REQUEST\", \"3\"))\nasync def _assert_valid_images(images: list[UploadFile]) -> None:\n    logger.info(\"parse-receipt validation started: image_count=%s\", len(images))\n    if len(images) > MAX_IMAGES_PER_REQUEST:\n        raise HTTPException(\n            status_code=status.HTTP_413_REQUEST_ENTITY_TOO_LARGE,",
+        "detail": "backend.routers.receipt",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "backend.routers.receipt",
+        "description": "backend.routers.receipt",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nALLOWED_CONTENT_TYPES = {\"image/jpeg\", \"image/png\", \"image/webp\"}\nMAX_IMAGE_SIZE_MB = int(os.getenv(\"MAX_IMAGE_SIZE_MB\", \"10\"))\nMAX_IMAGES_PER_REQUEST = int(os.getenv(\"MAX_IMAGES_PER_REQUEST\", \"3\"))\nasync def _assert_valid_images(images: list[UploadFile]) -> None:\n    logger.info(\"parse-receipt validation started: image_count=%s\", len(images))\n    if len(images) > MAX_IMAGES_PER_REQUEST:\n        raise HTTPException(\n            status_code=status.HTTP_413_REQUEST_ENTITY_TOO_LARGE,\n            detail=f\"Max {MAX_IMAGES_PER_REQUEST} images allowed\",",
+        "detail": "backend.routers.receipt",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_CONTENT_TYPES",
+        "kind": 5,
+        "importPath": "backend.routers.receipt",
+        "description": "backend.routers.receipt",
+        "peekOfCode": "ALLOWED_CONTENT_TYPES = {\"image/jpeg\", \"image/png\", \"image/webp\"}\nMAX_IMAGE_SIZE_MB = int(os.getenv(\"MAX_IMAGE_SIZE_MB\", \"10\"))\nMAX_IMAGES_PER_REQUEST = int(os.getenv(\"MAX_IMAGES_PER_REQUEST\", \"3\"))\nasync def _assert_valid_images(images: list[UploadFile]) -> None:\n    logger.info(\"parse-receipt validation started: image_count=%s\", len(images))\n    if len(images) > MAX_IMAGES_PER_REQUEST:\n        raise HTTPException(\n            status_code=status.HTTP_413_REQUEST_ENTITY_TOO_LARGE,\n            detail=f\"Max {MAX_IMAGES_PER_REQUEST} images allowed\",\n        )",
+        "detail": "backend.routers.receipt",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_IMAGE_SIZE_MB",
+        "kind": 5,
+        "importPath": "backend.routers.receipt",
+        "description": "backend.routers.receipt",
+        "peekOfCode": "MAX_IMAGE_SIZE_MB = int(os.getenv(\"MAX_IMAGE_SIZE_MB\", \"10\"))\nMAX_IMAGES_PER_REQUEST = int(os.getenv(\"MAX_IMAGES_PER_REQUEST\", \"3\"))\nasync def _assert_valid_images(images: list[UploadFile]) -> None:\n    logger.info(\"parse-receipt validation started: image_count=%s\", len(images))\n    if len(images) > MAX_IMAGES_PER_REQUEST:\n        raise HTTPException(\n            status_code=status.HTTP_413_REQUEST_ENTITY_TOO_LARGE,\n            detail=f\"Max {MAX_IMAGES_PER_REQUEST} images allowed\",\n        )\n    max_bytes = MAX_IMAGE_SIZE_MB * 1024 * 1024",
+        "detail": "backend.routers.receipt",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_IMAGES_PER_REQUEST",
+        "kind": 5,
+        "importPath": "backend.routers.receipt",
+        "description": "backend.routers.receipt",
+        "peekOfCode": "MAX_IMAGES_PER_REQUEST = int(os.getenv(\"MAX_IMAGES_PER_REQUEST\", \"3\"))\nasync def _assert_valid_images(images: list[UploadFile]) -> None:\n    logger.info(\"parse-receipt validation started: image_count=%s\", len(images))\n    if len(images) > MAX_IMAGES_PER_REQUEST:\n        raise HTTPException(\n            status_code=status.HTTP_413_REQUEST_ENTITY_TOO_LARGE,\n            detail=f\"Max {MAX_IMAGES_PER_REQUEST} images allowed\",\n        )\n    max_bytes = MAX_IMAGE_SIZE_MB * 1024 * 1024\n    for image in images:",
+        "detail": "backend.routers.receipt",
+        "documentation": {}
+    },
+    {
+        "label": "list_sessions",
+        "kind": 2,
+        "importPath": "backend.routers.sessions",
+        "description": "backend.routers.sessions",
+        "peekOfCode": "def list_sessions(user_id: UserId) -> list[SplitSession]:\n    return session_store.list_sessions(user_id)\n@router.get(\"/sessions/{session_id}\", response_model=SplitSession)\ndef get_session(session_id: str, user_id: UserId) -> SplitSession:\n    return _get_session_or_404(session_id, user_id)\n@router.put(\"/sessions/{session_id}\", response_model=SplitSession)\ndef update_session(session_id: str, body: UpdateSessionRequest, user_id: UserId) -> SplitSession:\n    existing = _get_session_or_404(session_id, user_id)\n    updated = SplitSession(\n        session_id=existing.session_id,",
+        "detail": "backend.routers.sessions",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "kind": 2,
+        "importPath": "backend.routers.sessions",
+        "description": "backend.routers.sessions",
+        "peekOfCode": "def get_session(session_id: str, user_id: UserId) -> SplitSession:\n    return _get_session_or_404(session_id, user_id)\n@router.put(\"/sessions/{session_id}\", response_model=SplitSession)\ndef update_session(session_id: str, body: UpdateSessionRequest, user_id: UserId) -> SplitSession:\n    existing = _get_session_or_404(session_id, user_id)\n    updated = SplitSession(\n        session_id=existing.session_id,\n        created_at=existing.created_at,\n        name=body.name or existing.name,\n        items=body.items,",
+        "detail": "backend.routers.sessions",
+        "documentation": {}
+    },
+    {
+        "label": "update_session",
+        "kind": 2,
+        "importPath": "backend.routers.sessions",
+        "description": "backend.routers.sessions",
+        "peekOfCode": "def update_session(session_id: str, body: UpdateSessionRequest, user_id: UserId) -> SplitSession:\n    existing = _get_session_or_404(session_id, user_id)\n    updated = SplitSession(\n        session_id=existing.session_id,\n        created_at=existing.created_at,\n        name=body.name or existing.name,\n        items=body.items,\n        people=body.people,\n        charge_split_mode=body.charge_split_mode,\n    )",
+        "detail": "backend.routers.sessions",
+        "documentation": {}
+    },
+    {
+        "label": "get_summary",
+        "kind": 2,
+        "importPath": "backend.routers.sessions",
+        "description": "backend.routers.sessions",
+        "peekOfCode": "def get_summary(session_id: str, user_id: UserId) -> SummaryResponse:\n    session = _get_session_or_404(session_id, user_id)\n    return _compute_summary_response(session)\n@router.post(\"/sessions/{session_id}/share\", response_model=ShareTokenResponse)\ndef create_share_token(session_id: str, user_id: UserId) -> ShareTokenResponse:\n    session = _get_session_or_404(session_id, user_id)\n    token = session_store.create_share_snapshot(session)\n    return ShareTokenResponse(share_token=token)\n# ── Public endpoints (no auth) ───────────────────────────────────\n@router.get(\"/share/{share_token}\", response_model=SplitSession)",
+        "detail": "backend.routers.sessions",
+        "documentation": {}
+    },
+    {
+        "label": "create_share_token",
+        "kind": 2,
+        "importPath": "backend.routers.sessions",
+        "description": "backend.routers.sessions",
+        "peekOfCode": "def create_share_token(session_id: str, user_id: UserId) -> ShareTokenResponse:\n    session = _get_session_or_404(session_id, user_id)\n    token = session_store.create_share_snapshot(session)\n    return ShareTokenResponse(share_token=token)\n# ── Public endpoints (no auth) ───────────────────────────────────\n@router.get(\"/share/{share_token}\", response_model=SplitSession)\ndef get_share_snapshot(share_token: str) -> SplitSession:\n    payload = session_store.get_share_snapshot(share_token)\n    if not payload:\n        raise HTTPException(",
+        "detail": "backend.routers.sessions",
+        "documentation": {}
+    },
+    {
+        "label": "get_share_snapshot",
+        "kind": 2,
+        "importPath": "backend.routers.sessions",
+        "description": "backend.routers.sessions",
+        "peekOfCode": "def get_share_snapshot(share_token: str) -> SplitSession:\n    payload = session_store.get_share_snapshot(share_token)\n    if not payload:\n        raise HTTPException(\n            status_code=status.HTTP_404_NOT_FOUND,\n            detail=\"Share snapshot not found or expired\",\n        )\n    return SplitSession.model_validate(payload)\n@router.get(\"/share/{share_token}/summary\", response_model=SummaryResponse)\ndef get_share_summary(share_token: str) -> SummaryResponse:",
+        "detail": "backend.routers.sessions",
+        "documentation": {}
+    },
+    {
+        "label": "get_share_summary",
+        "kind": 2,
+        "importPath": "backend.routers.sessions",
+        "description": "backend.routers.sessions",
+        "peekOfCode": "def get_share_summary(share_token: str) -> SummaryResponse:\n    payload = session_store.get_share_snapshot(share_token)\n    if not payload:\n        raise HTTPException(\n            status_code=status.HTTP_404_NOT_FOUND,\n            detail=\"Share snapshot not found or expired\",\n        )\n    session = SplitSession.model_validate(payload)\n    return _compute_summary_response(session)",
+        "detail": "backend.routers.sessions",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.routers.sessions",
+        "description": "backend.routers.sessions",
+        "peekOfCode": "router = APIRouter(prefix=\"/api\", tags=[\"sessions\"])\ndef _get_session_or_404(session_id: str, user_id: str) -> SplitSession:\n    session = session_store.get(session_id, user_id)\n    if not session:\n        raise HTTPException(\n            status_code=status.HTTP_404_NOT_FOUND,\n            detail=\"Session not found\",\n        )\n    return session\ndef _compute_summary_response(session: SplitSession) -> SummaryResponse:",
+        "detail": "backend.routers.sessions",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "backend.services.claude_parser",
+        "description": "backend.services.claude_parser",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nSYSTEM_PROMPT = \"\"\"\nYou are a receipt parser. Extract every line from the receipt image(s) into structured JSON.\nRules:\n- Include ALL rows: grocery items, alcohol, produce, household goods, etc.\n- Include taxes, delivery fees, service fees, tips, and bag fees as separate entries\n- Include discounts and coupons as separate entries with negative total values\n- Do NOT merge rows or combine items\n- Extract quantity and unit price where visible; if not shown, set quantity=1 and unit_price=total\n- For multi-image receipts, treat all images as one continuous receipt",
+        "detail": "backend.services.claude_parser",
+        "documentation": {}
+    },
+    {
+        "label": "SYSTEM_PROMPT",
+        "kind": 5,
+        "importPath": "backend.services.claude_parser",
+        "description": "backend.services.claude_parser",
+        "peekOfCode": "SYSTEM_PROMPT = \"\"\"\nYou are a receipt parser. Extract every line from the receipt image(s) into structured JSON.\nRules:\n- Include ALL rows: grocery items, alcohol, produce, household goods, etc.\n- Include taxes, delivery fees, service fees, tips, and bag fees as separate entries\n- Include discounts and coupons as separate entries with negative total values\n- Do NOT merge rows or combine items\n- Extract quantity and unit price where visible; if not shown, set quantity=1 and unit_price=total\n- For multi-image receipts, treat all images as one continuous receipt\n- Respond ONLY with a JSON array. No preamble, no explanation, no markdown fences.",
+        "detail": "backend.services.claude_parser",
+        "documentation": {}
+    },
+    {
+        "label": "STRICTER_FOLLOWUP_PROMPT",
+        "kind": 5,
+        "importPath": "backend.services.claude_parser",
+        "description": "backend.services.claude_parser",
+        "peekOfCode": "STRICTER_FOLLOWUP_PROMPT = \"\"\"\nReturn valid JSON only.\nNo markdown.\nNo backticks.\nNo explanation text.\nReturn a JSON array of receipt rows following the requested schema.\n\"\"\".strip()\ndef _extract_text_block(response: Any) -> str:\n    if not getattr(response, \"content\", None):\n        raise ValueError(\"Claude returned an empty response\")",
+        "detail": "backend.services.claude_parser",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "backend.services.gemini_parser",
+        "description": "backend.services.gemini_parser",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nSYSTEM_PROMPT = \"\"\"\nYou are a receipt parser. Extract every line from the receipt image(s) into structured JSON.\nRules:\n- Include ALL rows: grocery items, alcohol, produce, household goods, etc.\n- Include taxes, delivery fees, service fees, tips, and bag fees as separate entries\n- Include discounts and coupons as separate entries with negative total values\n- Do NOT merge rows or combine items\n- Extract quantity and unit price where visible; if not shown, set quantity=1 and unit_price=total\n- For multi-image receipts, treat all images as one continuous receipt",
+        "detail": "backend.services.gemini_parser",
+        "documentation": {}
+    },
+    {
+        "label": "SYSTEM_PROMPT",
+        "kind": 5,
+        "importPath": "backend.services.gemini_parser",
+        "description": "backend.services.gemini_parser",
+        "peekOfCode": "SYSTEM_PROMPT = \"\"\"\nYou are a receipt parser. Extract every line from the receipt image(s) into structured JSON.\nRules:\n- Include ALL rows: grocery items, alcohol, produce, household goods, etc.\n- Include taxes, delivery fees, service fees, tips, and bag fees as separate entries\n- Include discounts and coupons as separate entries with negative total values\n- Do NOT merge rows or combine items\n- Extract quantity and unit price where visible; if not shown, set quantity=1 and unit_price=total\n- For multi-image receipts, treat all images as one continuous receipt\n- Respond ONLY with a JSON array. No preamble, no explanation, no markdown fences.",
+        "detail": "backend.services.gemini_parser",
+        "documentation": {}
+    },
+    {
+        "label": "STRICTER_FOLLOWUP_PROMPT",
+        "kind": 5,
+        "importPath": "backend.services.gemini_parser",
+        "description": "backend.services.gemini_parser",
+        "peekOfCode": "STRICTER_FOLLOWUP_PROMPT = \"\"\"\nReturn valid JSON only.\nNo markdown.\nNo backticks.\nNo explanation text.\nReturn a JSON array of receipt rows following the requested schema.\n\"\"\".strip()\ndef _normalize_items(parsed: Any) -> list[ReceiptItem]:\n    if not isinstance(parsed, list):\n        raise ValueError(\"Gemini output was not a JSON array\")",
+        "detail": "backend.services.gemini_parser",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "backend.services.receipt_parser",
+        "description": "backend.services.receipt_parser",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nasync def extract_items(images: list[UploadFile]):\n    provider = (os.getenv(\"AI_PROVIDER\") or \"gemini\").strip().lower()\n    logger.info(\"receipt-parser provider selected provider=%s\", provider)\n    if provider == \"gemini\":\n        return await extract_items_gemini(images)\n    if provider == \"claude\":\n        return await extract_items_claude(images)\n    raise HTTPException(\n        status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,",
+        "detail": "backend.services.receipt_parser",
+        "documentation": {}
+    },
+    {
+        "label": "compute_summary",
+        "kind": 2,
+        "importPath": "backend.services.split_calculator",
+        "description": "backend.services.split_calculator",
+        "peekOfCode": "def compute_summary(session: SplitSession) -> list[PersonSummary]:\n    assignable_items = [\n        i for i in session.items if i.category in (\"item\", \"discount\")\n    ]\n    charges = [i for i in session.items if i.category in (\"tax\", \"fee\", \"tip\")]\n    total_charges = sum(i.total for i in charges)\n    grand_item_total = 0.0\n    for item in assignable_items:\n        if item.assignees:\n            grand_item_total += item.total",
+        "detail": "backend.services.split_calculator",
+        "documentation": {}
+    },
+    {
+        "label": "save",
+        "kind": 2,
+        "importPath": "backend.storage.session_store",
+        "description": "backend.storage.session_store",
+        "peekOfCode": "def save(session: SplitSession, user_id: str = \"\") -> None:\n    _sessions[session.session_id] = session\n    if user_id:\n        _session_owners[session.session_id] = user_id\n    try:\n        _supabase_upsert_session(session, user_id)\n    except Exception:  # noqa: BLE001\n        logger.exception(\"session-store supabase save failed, using in-memory fallback\")\ndef get(session_id: str, user_id: str | None = None) -> SplitSession | None:\n    try:",
+        "detail": "backend.storage.session_store",
+        "documentation": {}
+    },
+    {
+        "label": "get",
+        "kind": 2,
+        "importPath": "backend.storage.session_store",
+        "description": "backend.storage.session_store",
+        "peekOfCode": "def get(session_id: str, user_id: str | None = None) -> SplitSession | None:\n    try:\n        supabase_session = _supabase_get_session(session_id, user_id)\n        if supabase_session:\n            _sessions[supabase_session.session_id] = supabase_session\n            return supabase_session\n    except Exception:  # noqa: BLE001\n        logger.exception(\"session-store supabase get failed, using in-memory fallback\")\n    session = _sessions.get(session_id)\n    if session and user_id:",
+        "detail": "backend.storage.session_store",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "kind": 2,
+        "importPath": "backend.storage.session_store",
+        "description": "backend.storage.session_store",
+        "peekOfCode": "def update(session_id: str, session: SplitSession, user_id: str = \"\") -> None:\n    _sessions[session_id] = session\n    uid = user_id or _session_owners.get(session_id, \"\")\n    try:\n        _supabase_upsert_session(session, uid)\n    except Exception:  # noqa: BLE001\n        logger.exception(\"session-store supabase update failed, using in-memory fallback\")\ndef list_sessions(user_id: str = \"\") -> list[SplitSession]:\n    if user_id:\n        try:",
+        "detail": "backend.storage.session_store",
+        "documentation": {}
+    },
+    {
+        "label": "list_sessions",
+        "kind": 2,
+        "importPath": "backend.storage.session_store",
+        "description": "backend.storage.session_store",
+        "peekOfCode": "def list_sessions(user_id: str = \"\") -> list[SplitSession]:\n    if user_id:\n        try:\n            supabase_sessions = _supabase_list_sessions(user_id)\n            if supabase_sessions:\n                for session in supabase_sessions:\n                    _sessions[session.session_id] = session\n                return supabase_sessions\n        except Exception:  # noqa: BLE001\n            logger.exception(\"session-store supabase list failed, using in-memory fallback\")",
+        "detail": "backend.storage.session_store",
+        "documentation": {}
+    },
+    {
+        "label": "create_share_snapshot",
+        "kind": 2,
+        "importPath": "backend.storage.session_store",
+        "description": "backend.storage.session_store",
+        "peekOfCode": "def create_share_snapshot(session: SplitSession) -> str:\n    token = str(uuid.uuid4())\n    payload = session.model_dump()\n    client = _redis_client()\n    if client:\n        client.setex(f\"share:{token}\", _share_ttl_seconds(), json.dumps(payload))\n    else:\n        _share_snapshots[token] = payload\n    return token\ndef get_share_snapshot(token: str) -> dict[str, Any] | None:",
+        "detail": "backend.storage.session_store",
+        "documentation": {}
+    },
+    {
+        "label": "get_share_snapshot",
+        "kind": 2,
+        "importPath": "backend.storage.session_store",
+        "description": "backend.storage.session_store",
+        "peekOfCode": "def get_share_snapshot(token: str) -> dict[str, Any] | None:\n    client = _redis_client()\n    if client:\n        raw = client.get(f\"share:{token}\")\n        if not raw:\n            return None\n        return json.loads(raw)\n    return _share_snapshots.get(token)",
+        "detail": "backend.storage.session_store",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "backend.storage.session_store",
+        "description": "backend.storage.session_store",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nSESSIONS_TABLE = os.getenv(\"SUPABASE_SESSIONS_TABLE\", \"split_sessions\")\ndef _redis_client() -> redis.Redis | None:\n    redis_url = os.getenv(\"REDIS_URL\")\n    if not redis_url:\n        return None\n    return redis.from_url(redis_url, decode_responses=True)\ndef _share_ttl_seconds() -> int:\n    ttl_days = int(os.getenv(\"SESSION_TTL_DAYS\", \"7\"))\n    return int(timedelta(days=ttl_days).total_seconds())",
+        "detail": "backend.storage.session_store",
+        "documentation": {}
+    },
+    {
+        "label": "SESSIONS_TABLE",
+        "kind": 5,
+        "importPath": "backend.storage.session_store",
+        "description": "backend.storage.session_store",
+        "peekOfCode": "SESSIONS_TABLE = os.getenv(\"SUPABASE_SESSIONS_TABLE\", \"split_sessions\")\ndef _redis_client() -> redis.Redis | None:\n    redis_url = os.getenv(\"REDIS_URL\")\n    if not redis_url:\n        return None\n    return redis.from_url(redis_url, decode_responses=True)\ndef _share_ttl_seconds() -> int:\n    ttl_days = int(os.getenv(\"SESSION_TTL_DAYS\", \"7\"))\n    return int(timedelta(days=ttl_days).total_seconds())\ndef _supabase_client() -> Any | None:",
+        "detail": "backend.storage.session_store",
+        "documentation": {}
+    },
+    {
+        "label": "test_compute_summary_equal_split_is_default",
+        "kind": 2,
+        "importPath": "backend.tests.test_split_calculator",
+        "description": "backend.tests.test_split_calculator",
+        "peekOfCode": "def test_compute_summary_equal_split_is_default() -> None:\n    p1 = Person(id=\"p1\", name=\"Alex\", color=\"#3B82F6\")\n    p2 = Person(id=\"p2\", name=\"Priya\", color=\"#10B981\")\n    session = SplitSession(\n        session_id=\"s1\",\n        items=[\n            ReceiptItem(\n                id=\"i1\",\n                name=\"Milk\",\n                quantity=1,",
+        "detail": "backend.tests.test_split_calculator",
+        "documentation": {}
+    },
+    {
+        "label": "test_compute_summary_prorated_mode",
+        "kind": 2,
+        "importPath": "backend.tests.test_split_calculator",
+        "description": "backend.tests.test_split_calculator",
+        "peekOfCode": "def test_compute_summary_prorated_mode() -> None:\n    p1 = Person(id=\"p1\", name=\"Alex\", color=\"#3B82F6\")\n    p2 = Person(id=\"p2\", name=\"Priya\", color=\"#10B981\")\n    session = SplitSession(\n        session_id=\"s1\",\n        charge_split_mode=\"prorated\",\n        items=[\n            ReceiptItem(\n                id=\"i1\",\n                name=\"Milk\",",
+        "detail": "backend.tests.test_split_calculator",
+        "documentation": {}
+    },
+    {
+        "label": "test_compute_summary_shared_item_equal_split",
+        "kind": 2,
+        "importPath": "backend.tests.test_split_calculator",
+        "description": "backend.tests.test_split_calculator",
+        "peekOfCode": "def test_compute_summary_shared_item_equal_split() -> None:\n    p1 = Person(id=\"p1\", name=\"Alex\", color=\"#3B82F6\")\n    p2 = Person(id=\"p2\", name=\"Priya\", color=\"#10B981\")\n    session = SplitSession(\n        session_id=\"s2\",\n        items=[\n            ReceiptItem(\n                id=\"i1\",\n                name=\"Pizza\",\n                quantity=1,",
+        "detail": "backend.tests.test_split_calculator",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "backend.auth",
+        "description": "backend.auth",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n_bearer = HTTPBearer(auto_error=False)\n_jwks_cache: dict | None = None\ndef _get_jwks() -> dict:\n    \"\"\"Fetch and cache Supabase JWKS (public keys for JWT verification).\"\"\"\n    global _jwks_cache\n    if _jwks_cache:\n        return _jwks_cache\n    supabase_url = os.getenv(\"SUPABASE_URL\", \"\")\n    if not supabase_url:",
+        "detail": "backend.auth",
+        "documentation": {}
+    },
+    {
+        "label": "_bearer",
+        "kind": 5,
+        "importPath": "backend.auth",
+        "description": "backend.auth",
+        "peekOfCode": "_bearer = HTTPBearer(auto_error=False)\n_jwks_cache: dict | None = None\ndef _get_jwks() -> dict:\n    \"\"\"Fetch and cache Supabase JWKS (public keys for JWT verification).\"\"\"\n    global _jwks_cache\n    if _jwks_cache:\n        return _jwks_cache\n    supabase_url = os.getenv(\"SUPABASE_URL\", \"\")\n    if not supabase_url:\n        raise HTTPException(",
+        "detail": "backend.auth",
+        "documentation": {}
+    },
+    {
+        "label": "UserId",
+        "kind": 5,
+        "importPath": "backend.auth",
+        "description": "backend.auth",
+        "peekOfCode": "UserId = Annotated[str, Depends(get_current_user_id)]",
+        "detail": "backend.auth",
+        "documentation": {}
+    },
+    {
+        "label": "health",
+        "kind": 2,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "def health() -> dict[str, str]:\n    return {\"status\": \"ok\"}",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "app = FastAPI(title=\"FairSplit API\", version=\"1.0.0\")\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\napp.include_router(receipt_router)\napp.include_router(sessions_router)",
+        "detail": "backend.main",
+        "documentation": {}
+    }
+]
