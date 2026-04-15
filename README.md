@@ -15,14 +15,18 @@ Shared orders from apps like Instacart or other delivery services produce long, 
 
 ## Screenshots
 
-When you have UI captures, save them under [`images/`](images/) and embed them here with standard Markdown, for example:
+Below is a carousel-style gallery (horizontal scroll on GitHub).  
+You can swipe/scroll sideways to view each screen.
 
-```markdown
-![Dashboard](images/dashboard.png)
-![Split session](images/split-session.png)
-```
-
-The repo already includes a few **sample receipt JPEGs** in `images/` that you can reference if you want to show what kind of delivery receipts the parser is built for.
+<div align="center" style="display:flex; gap:12px; overflow-x:auto; padding:8px 0;">
+  <img src="images/login_light.png" alt="Login screen (light)" width="280" />
+  <img src="images/dashboard_light.png" alt="Dashboard screen (light)" width="280" />
+  <img src="images/upload_light.png" alt="Receipt upload screen (light)" width="280" />
+  <img src="images/review_light.png" alt="Review line items screen (light)" width="280" />
+  <img src="images/assign_light.png" alt="Assign items screen (light)" width="280" />
+  <img src="images/dashboard_popup_light.png" alt="Dashboard popup screen (light)" width="280" />
+  <img src="images/assign_dark.png" alt="Assign items screen (dark)" width="280" />
+</div>
 
 ## Tech stack
 
