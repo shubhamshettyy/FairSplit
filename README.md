@@ -15,9 +15,6 @@ Shared orders from apps like Instacart or other delivery services produce long, 
 
 ## Screenshots
 
-Below is a carousel-style gallery (horizontal scroll on GitHub).  
-You can swipe/scroll sideways to view each screen.
-
 <div align="center" style="display:flex; gap:12px; overflow-x:auto; padding:8px 0;">
   <img src="images/login_light.png" alt="Login screen (light)" width="280" />
   <img src="images/dashboard_light.png" alt="Dashboard screen (light)" width="280" />
